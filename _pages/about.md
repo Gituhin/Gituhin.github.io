@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! 👋🏻. Welcome to my homepage
+Hey 👋🏻 there! I am Tuhin. Welcome to my homepage
 ------
 
 **About Me**
